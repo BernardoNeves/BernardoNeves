@@ -6,7 +6,7 @@ I'm currently a student in Digital Games Development Engineering at [IPCA](https
 
 <p align="left">
   <a href="https://discord.com/users/704291752588345354/"><img height="25" src="https://img.shields.io/badge/-Neves%231977-5865F2?logo=discord&logoColor=white"/>
-  <a href="https://www.linkedin.com/in/bernardo-neves-154718238/"><img  height="25" src="https://img.shields.io/badge/-Bernardo%20Neves-0A66C2?logo=linkedin&logoColor=white"/>
+  <!--<a href="https://www.linkedin.com/in/bernardo-neves-154718238/"><img  height="25" src="https://img.shields.io/badge/-Bernardo%20Neves-0A66C2?logo=linkedin&logoColor=white"/>
 </p>
   
 <!-- ---
