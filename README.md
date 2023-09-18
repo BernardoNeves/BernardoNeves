@@ -1,5 +1,5 @@
 # Bernardo Neves
-***`Software/Game Developer`***
+***`Software Engineer / Game Developer`***
 
 I'm currently a student in Digital Games Development Engineering at [IPCA](https://ipca.pt/en/).
 
