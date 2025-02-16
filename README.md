@@ -4,7 +4,7 @@ Hi, I'm **Neves** (Bernardo), a Software Developer from Madeira, Portugal. Curre
 I graduated in [Digital Game Development Engineering](https://est.ipca.pt/curso/digital-games-development/) @ [IPCA](https://ipca.pt/).<br>
 and am now pursuing a Master's in [Applied Artificial Intelligence](https://est.ipca.pt/curso/applied-artificial-intelligence/) at the same institution.
 
-I work fulltime at [YouOn](https://www.youongroup.com/) as a **Software Developer**, focusing on backend development and AI integrations, occasionally contributing to frontend and game development projects.
+I work fulltime at [YouOn](https://www.youongroup.com/) as a **Software Engineer**, focusing on backend development and AI integrations, occasionally contributing to frontend and game development projects.
 
 I'm passionate about technology, software development, and game development. I'm always looking for new challenges and opportunities to learn and grow.
 
