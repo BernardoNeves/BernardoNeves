@@ -24,6 +24,10 @@ I'm passionate about technology, software development, and game development. I'm
 </p>
   
 <p align="left">
-    <a href="https://github.com/BernardoNeves/"><img height="220" src="https://github-readme-stats.vercel.app/api?username=BernardoNeves&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_rank=true"/></a>
+    <a href="https://github.com/BernardoNeves/"><img height="220" src="https://github-readme-stats.vercel.app/api?username=BernardoNeves&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_rank=true"/>
+    </a>
+    <a href="https://github.com/BernardoNeves?tab=repositories&type=source">
+      <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoNeves&layout=compact&theme=tokyonight&hide_border=true"/>
+    </a>
     <!-- <a href="https://github.com/BernardoNeves/dotfiles"><img height="220" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=BernardoNeves&repo=dotfiles&theme=tokyonight&hide_border=true&show_icons=true&show_description=true"/></a> -->
 </p>
